@@ -1,2 +1,1 @@
-"mvc exercises" 
-"# mvcExercises" 
+simply MVC exercises
